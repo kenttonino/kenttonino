@@ -1,4 +1,4 @@
-`A Student learning C, Linux Kernel, Embedded System, and FPGA.`
+`A Student learning C, Assembly, Linux Kernel, Embedded System, and FPGA.`
 #
 
 - `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
