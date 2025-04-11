@@ -1,13 +1,13 @@
 ## Hardware Engineering Courses
 
-> - Aything related to electrical, electronics, or computer engineering.
+> - Aything related to Electrical, Electronics, or Computer Engineering.
 
 <br />
 <br />
 
 ## Computing Courses
 
-> - Anything related to Computer Science and Software Engineering. 
+> - Anything related to Computer Science or Software Engineering. 
 
 <br />
 
