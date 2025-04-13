@@ -8,4 +8,4 @@
 `Education`
 #
 
-- `High School Diploma` | [`06/2009 - 03/2013`](./diploma/README.md)
+- `High School` | [`06/2009 - 03/2013`](./diploma/README.md)
