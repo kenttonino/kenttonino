@@ -4,7 +4,3 @@
 
 <br />
 
-`Education`
-#
-
-- `High School` | [`2009 - 2013`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/diploma/01-high-school.md)
