@@ -1,6 +1,6 @@
 <br /> 
 
-`A Student with interest in C, Assembly, Linux Kernel, and Embedded Systems.`
+`A Student learning C, Assembly, Linux Kernel, and Embedded Systems.`
 #
 
 - `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
