@@ -1,20 +1,3 @@
-### 200 Units, Engineering
-#
-
-<br />
-
-`Link` | [`Official Website`](https://www.vsu.edu.ph/academe/satellite-campuses/isabel)
-
-`Program` | `BS, Industrial Engineering` <br />
-`University Name` | `Visayas State University - Isabel` <br />
-`University Address` | `Isabel, Leyte, Philippines` <br />
-`Study Status` | `Dropout, Completed 200 Units (Incomplete Thesis)` <br />
-`Date Attended` | `06/2013 - 07/2018` <br />
-
-<br />
-<br />
-<br />
-
 ### High School
 #
 
