@@ -6,8 +6,3 @@
 
 
 <br />
-
-`Education`
-#
-
-- `High School` | [`06/2009 - 03/2013`](./diploma/README.md)
