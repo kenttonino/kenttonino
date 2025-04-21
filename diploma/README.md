@@ -3,7 +3,10 @@
 
 <br />
 
-`Link` | [`Official Website`](https://oed.com.ph/academic-programs/bachelors-degree/bachelor-of-science-in-computer-engineering/)
+`Link`
+- https://news.amaes.edu.ph/2017/06/ama-online-degree-education.html
+- https://www.amaes.edu.ph/programs-offered-engineering/#bsce
+- https://oed.com.ph/academic-programs/bachelors-degree/bachelor-of-science-in-computer-engineering/
 
 <br />
 
