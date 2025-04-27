@@ -8,8 +8,8 @@
 `Experience`
 #
 
-- `Senior Backend Developer` | [`Aphex`](https://www.aphex.co/) |  `01/2025` - `Present`
-- `Software Engineer` | [`Cell 5`](https://www.cell5.co.uk/) | `10/2022` - `01/2025`
+- `Senior Backend Developer` | [`Aphex`](https://www.aphex.co/) |  `02/2025` - `Present`
+- `Software Engineer` | [`Cell 5`](https://www.cell5.co.uk/) | `10/2022` - `02/2025`
 
 <br />
 
