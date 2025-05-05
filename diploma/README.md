@@ -1,18 +1,14 @@
-### BS, Computer Engineering
+### High School
 #
 
 <br />
 
 `Link`
-- https://news.amaes.edu.ph/2017/06/ama-online-degree-education.html
-- https://www.amaes.edu.ph/programs-offered-engineering/#bsce
-- https://oed.com.ph/academic-programs/bachelors-degree/bachelor-of-science-in-computer-engineering/
+- https://www.facebook.com/doanebaptistschool/
 
 <br />
 
-`University Name` | `AMA University Online Education` <br />
-`University Address` | `Quezon City, Metro Manila, Philippines 1103` <br />
-`Study Status` | `In Progress` <br />
-`Date Attended` | `04/2023 - Present` <br />
-
-<br />
+`School Name` | `Doane Baptist School - Isabel` <br />
+`Address` | `Isabel, Leyte, Philippines` <br />
+`Study Status` | `Graduated` <br />
+`Date Attended` | `06/2009 - 03/2013` <br />
