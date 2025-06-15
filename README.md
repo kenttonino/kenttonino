@@ -1,7 +1,6 @@
 
 
-- `Hardware-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/hardware-projects)
-- `Software-Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/software-projects)
+- `Computer Engineering Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computer-engineering)
 - `Certificates` | [`View`](./certificate/README.md)
 
 <br />
@@ -9,4 +8,4 @@
 `Education`
 #
 
-- `High School` | [`06/2009 - 03/2013`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/diploma/README.md#user-content-high-school)
+- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kentlouisetonino/kentlouisetonino/blob/develop/diploma/README.md#user-content-high-school)
