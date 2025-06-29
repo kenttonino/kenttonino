@@ -8,4 +8,4 @@
 `Education`
 #
 
-- `High School` | [`06/2009 - 03/2013`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma#user-content-high-school)
+- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma#bs-computer-engineering)
