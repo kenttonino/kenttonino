@@ -1,6 +1,6 @@
 
 
-- `Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/computer-engineering)
+- `Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
 - `Certificates` | [`View`](./certificate/README.md)
 
 <br />
