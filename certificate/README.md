@@ -15,6 +15,4 @@
 `Snyk` | `Security for Developers` | [`10/08/2024`](https://media.licdn.com/dms/image/v2/D562DAQGRpIqk3IhLpg/profile-treasury-document-cover-images_480/B56Zakmql1HAAw-/0/1746518323885?e=1747126800&v=beta&t=DT-b8zRlpQmuwQuMbWVx5eiLKV0kB-uZUG-5zNx5YZs) <br />
 `Sololearn` | `C Intermediate` | [`08/28/2023`](https://www.sololearn.com/en/certificates/CC-V81MRQU9) <br />
 `Sololearn` | `Introduction to C` | [`07/06/2023`](https://www.sololearn.com/certificates/CC-6AGYI9YG) <br />
-`FreeCodeCamp` | `Backend Development and APIs` | [`03/26/2023`](https://www.freecodecamp.org/certification/kentlouisetonino/back-end-development-and-apis) <br />
-`Sololearn` | `Python Core` | [`10/10/2021`](https://www.sololearn.com/en/certificates/CT-UOJ7MU3L) <br />
 `Sololearn` | `SQL` | [`09/17/2021`](https://www.sololearn.com/en/certificates/CT-OYPTHJVE) <br />
