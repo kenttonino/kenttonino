@@ -1,12 +1,6 @@
 
 
-- `Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
-- `Certificates` | [`View`](./certificate/README.md)
+- `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
+- `Certificate` | [`View`](./certificate/README.md)
+- `Education` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma)
 
-<br />
-
-`Education`
-#
-
-- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma#bs-computer-engineering)
-  
