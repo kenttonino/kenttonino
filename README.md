@@ -1,5 +1,8 @@
 
+<br />
+
 `Hello, I'm Kent. A Backend Developer from Philippines with interests in Go, GCP, and Linux.`
+#
 
 <br />
 
