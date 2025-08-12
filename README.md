@@ -1,7 +1,7 @@
 
 <br />
 
-`A Software Engineer from Philippines with interests in Go, Backend Systems, GCP, and Linux.`
+`A Backend Developer from Philippines with interests in Go, GCP, and Linux.`
 #
 
 <br />
