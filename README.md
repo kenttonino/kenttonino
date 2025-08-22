@@ -1,4 +1,4 @@
-`A Filipino Student learning Linux Kernel, Computer Architecture, and FPGA.`
+`A Student learning Linux Kernel, Computer Architecture, and FPGA.`
 
 - `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
 - `Certificate` | [`View`](./certificate/README.md)
