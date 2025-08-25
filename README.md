@@ -1,4 +1,5 @@
-
+`Learning` | `Linux Kernel - Computer Architecture - FPGA`
+#
 
 - `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
 - `Certificate` | [`View`](./certificate/README.md)
