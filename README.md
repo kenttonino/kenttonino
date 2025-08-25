@@ -1,4 +1,4 @@
-`Learning` | `Linux Kernel - Computer Architecture - FPGA`
+`Learning` | `Linux Kernel`, `RISC-V`, `FPGA`
 #
 
 - `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
