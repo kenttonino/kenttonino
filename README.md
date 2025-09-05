@@ -1,12 +1,8 @@
-
-
-- `Projects` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
-- `Certificates` | [`View`](./certificate/README.md)
-
 <br />
 
-`Education`
+`Learning` | `Linux Kernel` - `RISC-V` - `FPGA`
 #
 
-- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma#bs-computer-engineering)
-  
+- `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
+- `Certificate` | [`View`](./certificate/README.md)
+- `Education` | [`View`](https://github.com/kentlouisetonino/kentlouisetonino/tree/develop/diploma)
