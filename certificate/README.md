@@ -1,6 +1,6 @@
 ## Electrical Engineering Courses
 
-> - Aything related to Electrical, Electronics, or Computer Engineering.
+> - Aything related to Electrical and Computer Engineering.
 
 <br />
 <br />
