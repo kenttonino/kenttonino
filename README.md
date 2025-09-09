@@ -1,6 +1,6 @@
 <br />
 
-`Learning` | `Linux Kernel` - `RISC-V` - `FPGA`
+`Learning` | `Linux Kernel` - `RISC-V` - `Embedded Systems` - `FPGA`
 #
 
 - `Project` | [`View`](https://github.com/stars/kentlouisetonino/lists/personal-projects)
