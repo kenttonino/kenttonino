@@ -13,3 +13,4 @@
 `Address` | `Quezon City, Metro Manila, Philippines` <br />
 `Study Status` | `In Progress` <br />
 `Date Attended` | `04/2023 - Present` <br />
+`Focus` | `Embedded Systems` - `FPGA`
