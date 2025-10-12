@@ -1,5 +1,6 @@
 
-- `Projects` | [`View`](https://github.com/stars/kenttonino/lists/personal-projects)
+- `Projects | Backend Systems` | [`View`](https://github.com/stars/kenttonino/lists/personal-backend-systems)
+- `Projects | Computer Engineering` | [`View`](https://github.com/stars/kenttonino/lists/personal-computer-engineering)
 - `Certificates` | [`View`](./certificate/README.md)
 
 <br />
