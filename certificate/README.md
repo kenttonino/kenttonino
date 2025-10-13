@@ -9,7 +9,7 @@
 
 ## Low-Level Systems Courses
 
-> - Anything related to Low-Level Computing and Machine Learning.
+> - Anything related to Low-Level Computing.
 
 <br />
 
