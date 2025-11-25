@@ -6,5 +6,5 @@
 
 `Education`
 #
-- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kenttonino/kenttonino/tree/develop/diploma#bs-computer-engineering)
-- `High School` | [`06/2009 - 03/2023`](https://github.com/kenttonino/kenttonino/tree/develop/diploma#high-school)
+- `BS, Computer Engineering` | [`04/2023 - Present`](https://github.com/kenttonino/kenttonino/tree/develop/education#bs-computer-engineering)
+- `High School` | [`06/2009 - 03/2023`](https://github.com/kenttonino/kenttonino/tree/develop/education#high-school)
