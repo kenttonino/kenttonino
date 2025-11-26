@@ -1,6 +1,6 @@
 
-- `Projects | Backend Systems` | [`View`](https://github.com/stars/kenttonino/lists/projects-backend-systems)
-- `Projects | Computer Engineering` | [`View`](https://github.com/stars/kenttonino/lists/projects-computer-engineering)
+- `Projects` | [`Backend Systems`](https://github.com/stars/kenttonino/lists/projects-backend-systems)
+- `Projects` | [`Computer Engineering`](https://github.com/stars/kenttonino/lists/projects-computer-engineering)
 
 <br />
 
