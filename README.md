@@ -6,4 +6,4 @@
 
 `Education`
 #
-- `High School` | [`2009 - 2023`](https://github.com/kenttonino/kenttonino/tree/develop/education#high-school)
+- `High School` | [`2009 - 2013`](https://github.com/kenttonino/kenttonino/tree/develop/education#high-school)
