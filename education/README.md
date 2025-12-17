@@ -7,4 +7,22 @@ Links:
 `University`: `Open University UK` <br />
 `University Address`: `Walton Hall, Milton Keynes, Buckinghamshire, MK7 6AA, UK` <br />
 `Date`: `February 2026 - Present` <br />
+`Status`: `In Progress` <br />
 `Setup`: `Distant Learning`
+
+<br />
+<br />
+<br />
+
+
+
+## High School
+
+Links:
+- https://www.facebook.com/doanebaptistschool/
+
+`School Name`: `Doane Baptist School - Isabel` <br />
+`School Address`: `Highway, Sto. Nino, Isabel, Philippines` <br />
+`Date`: `06/2009 - 03/2013` <br />
+`Status`: `Completed` <br />
+`Setup`: `Tradional`
