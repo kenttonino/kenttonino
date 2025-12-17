@@ -9,24 +9,3 @@ Links:
 `Date`: `February 2026 - Present` <br />
 `Status`: `In Progress` <br />
 `Setup`: `Distant Learning`
-
-<br />
-<br />
-<br />
-
-
-
-## High School
-
-Links:
-- https://www.facebook.com/doanebaptistschool/
-
-`School Name`: `Doane Baptist School - Isabel` <br />
-`School Address`: `Highway, Sto. Nino, Isabel, Philippines` <br />
-`Date`: `06/2009 - 03/2013` <br />
-`Status`: `Completed` <br />
-`Setup`: `Tradional`
-
-<br />
-
-![High School Diploma](https://github.com/user-attachments/assets/3b34987d-e8e5-4207-9fa0-c162456ab8ec)
