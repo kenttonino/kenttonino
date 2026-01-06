@@ -6,6 +6,6 @@ Links:
 `Program`: `Bachelor of Science in Physics` <br />
 `University`: `Open University UK` <br />
 `University Address`: `Walton Hall, Milton Keynes, Buckinghamshire, MK7 6AA, UK` <br />
-`Date`: `February 2026 - Present` <br />
+`Date`: `January 2026 - Present` <br />
 `Status`: `In Progress` <br />
 `Setup`: `Distant Learning`
