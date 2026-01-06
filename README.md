@@ -7,4 +7,4 @@
 `Education`
 # 
 
-- `BS, Physics` | [`02/2026 - Present`](https://github.com/kenttonino/kenttonino/blob/develop/education/README.md#bachelor-of-science-in-physics)
+- `BS, Physics` | [`01/2026 - Present`](https://github.com/kenttonino/kenttonino/blob/develop/education/README.md#bachelor-of-science-in-physics)
