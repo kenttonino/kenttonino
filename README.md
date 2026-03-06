@@ -1,6 +1,6 @@
 <br />
 
-`Learning` | `Go` - `Backend` - `Computer Networks` - `C` - `Low-Level Systems`
+`Learning` | `Go` - `Backend` - `C` - `Low-Level Systems` - `Physics`
 #
 
 - `Projects - Backend Systems` | [`View`](https://github.com/stars/kenttonino/lists/projects-backend-systems)
