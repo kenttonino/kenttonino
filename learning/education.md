@@ -22,7 +22,7 @@ Links:
 `University`: `Visayas State University - Isabel` <br />
 `University Address`: `Isabel, Leyte, Philippines` <br />
 `Date`: `06/2013 - 07/2018` <br />
-`Status`: `(Dropout) Completed 200 Units Only` <br />
+`Status`: `(Incomplete Thesis) Completed 200 Units Only` <br />
 `Setup`: `Traditional Learning`
 
 <br />

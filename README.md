@@ -9,5 +9,5 @@
 `Education`
 #
 
-- `200 Units, Industrial Engineering` | [`06/2013-07/2018`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#200-units---industrial-engineering)
-- `High School` | [`06/2009-03/2013`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#high-school)
+- `200 Units, Industrial Engineering` | [`06/2013 - 07/2018`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#200-units---industrial-engineering)
+- `High School` | [`06/2009 - 03/2013`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#high-school)
