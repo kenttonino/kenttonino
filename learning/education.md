@@ -24,3 +24,19 @@ Links:
 `Date`: `06/2013 - 07/2018` <br />
 `Status`: `(Dropout) Completed 200 Units Only` <br />
 `Setup`: `Traditional Learning`
+
+<br />
+<br />
+
+## High School
+
+Links:
+- https://www.facebook.com/doanebaptistschool/
+
+`Program`: `High School` <br />
+`School`: `Doane Baptist School - Isabel` <br />
+`University Address`: `Isabel, Leyte, Philippines` <br />
+`Date`: `06/2009 - 03/2013` <br />
+`Status`: `Graduated` <br />
+`Setup`: `Traditional Learning` <br />
+`Diploma`: [`View`](./files/01-diploma-high-school.jpg)
