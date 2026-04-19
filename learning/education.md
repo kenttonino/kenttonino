@@ -1,4 +1,4 @@
-## Bachelor of Science - Physics
+## Bachelor of Science, Physics
 
 `Program`: `Bachelor of Science in Physics` <br />
 `University`: `Open University UK` <br />
