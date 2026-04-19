@@ -8,4 +8,4 @@
 
 `Education`
 #
-- `BS - Physics` | [`01/2026 - Present`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#bachelor-of-science---physics)
+- `BS, Physics` | [`01/2026 - Present`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#bachelor-of-science---physics)
