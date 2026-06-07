@@ -1,5 +1,5 @@
 
-- `Projects` | [`View`]()
+- `Projects` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/develop/learning/certificate.md)
 
 
