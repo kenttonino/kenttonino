@@ -1,5 +1,6 @@
 
-- `Projects` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
+- `Projects` | `Personal` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
+- `Projects` | `Open-Source` | [`View`](https://github.com/stars/kenttonino/lists/projects-open-source)
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/develop/learning/certificate.md)
 
 
