@@ -1,6 +1,5 @@
 
-- `Projects` | `Personal` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
-- `Projects` | `Open-Source` | [`View`](https://github.com/stars/kenttonino/lists/projects-open-source)
+- `Projects` | `Low-Level` | [`View`](https://github.com/stars/kenttonino/lists/projects-low-level)
 - `Projects` | `Technical Papers` | [`View`](https://github.com/kenttonino/TechnicalPapers)
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/develop/learning/certificate.md)
 
