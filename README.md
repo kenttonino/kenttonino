@@ -1,5 +1,9 @@
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=kenttonino&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br />
+
 `Interests` | `C` - `Low-Level Computing` - `Physics`
 #
 
