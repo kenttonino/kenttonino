@@ -4,7 +4,7 @@
 
 <br />
 
-`Learning` | `C` - `Low-Level Computing` - `Physics`
+`Interest` | `C` - `Low-Level Computing` - `Physics`
 #
 
 - `Projects` | `Low-Level Systems` | [`View`](https://github.com/stars/kenttonino/lists/projects-low-level)
