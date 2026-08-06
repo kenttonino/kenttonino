@@ -1,3 +1,10 @@
-- `Interests` | `C` - `Low-Level Computing` - `Physics`
+- `Interests` | `Low-Level Computing` - `Physics`
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/master/learning/certificate.md)
 - `Projects` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
+
+<br />
+
+`Education`
+# 
+
+- `BS, Physics` | [`View`](https://github.com/kenttonino/kenttonino/blob/master/learning/education.md#bs-physics)
