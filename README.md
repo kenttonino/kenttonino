@@ -1,4 +1,4 @@
-- `Exploring` | `Compilers, Computer Architecture, FPGA`
+- `Exploring` | `Compiler, Computer Architecture, FPGA`
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/master/learning/certificate.md)
 - `Projects` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
 
