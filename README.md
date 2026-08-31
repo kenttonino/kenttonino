@@ -1,5 +1,5 @@
 
-
+- `Exploring` | `Distributed & Low-Level Computing`
 - `Certificates` | [`View`](https://github.com/kenttonino/kenttonino/blob/master/learning/certificate.md)
 - `Projects` | [`View`](https://github.com/stars/kenttonino/lists/projects-personal)
 
